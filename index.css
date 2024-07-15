@@ -1,1 +1,8 @@
 hii i am css file can you open my file and use me like a css code
+
+.color{
+  display: flex;
+  flex-direction: row;
+  justify-content:center;
+}
+
